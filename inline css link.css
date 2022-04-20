@@ -1,0 +1,98 @@
+h1
+{
+colour: red;
+font-family: cursive;
+font-size:35px;
+text-shadow:2px 1px white;
+border: yellow;
+background-color:#1950DB;
+}
+
+marquee
+{
+background-color:#FFFFFF;
+font-size:30px;
+}
+
+p1
+{
+font-size:20px;
+background-color:#51EF31;
+}
+
+h2
+{
+	font-size:50px;
+	background-color: #E3F805;
+}
+
+hr
+{
+colour:#00ffff
+background-color:green;
+height:5px;
+}
+
+p4
+{
+font-size:20px;
+font-color:#white;
+background-color:#51EF31;
+}
+
+input
+{
+  background-color: #4CAF50;
+  border: white;
+  color: white;
+  padding: 9px 9px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+p2
+{
+font-size:30px;
+}
+
+p4
+{
+ font-size:20px;
+ font-color:#white;
+}
+
+table.table2, table.table2 th, table.table2 td 
+{
+	table:5px  solid white;
+	border-collapse: collapse;
+	color:black;
+	padding:10px 10px;
+	text-alingn:center;
+	background-color: #1950DB;
+	font-size:5px;
+}
+
+table.table1,table.table1 th,table.table1 td
+{
+	border:2px solid white;
+	border-collapse: separate;
+ 	 border-spacing: 50px 50px;
+	border-collapse: collapse;
+	color:solid black;
+	padding:10px 10px;
+	text-alingn:center;
+	background-color:#96D4D4;
+	font-size:30px;
+}	
+
+
+
+.buttom-right {
+  float: right;
+  font-size:20px;
+  font-color:blue;
+  background-color:"red";
+}
+
